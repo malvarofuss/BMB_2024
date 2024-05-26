@@ -51,6 +51,7 @@ Coming soon!
 
 [Module 2 Lecture Slides]()
 [Module 2 Lab]()
+[Module 2 Lab Markdown]()
 
 # Day 2 <a id="day1"></a>
 
@@ -60,6 +61,7 @@ Coming soon!
 
 [Module 3 Lecture Slides]()
 [Module 3 Lab]()
+[Module 3 Lab Markdown]()
 
 ## Module 4
 
@@ -67,3 +69,4 @@ Coming soon!
 
 [Module 4 Lecture Slides]()
 [Module 4 Lab]()
+[Module 3 Lab Markdown]()
