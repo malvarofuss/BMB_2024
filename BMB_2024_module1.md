@@ -49,26 +49,26 @@ Hopefully you were able to attend the session on Friday where we went over this,
 
 First off, you'll need to save the .pem key file that you've been given. 
 
-Next, you'll need to change directory to where your key file is stored. Locate the file in your Finder, right click the file, hold the option key and click on "Copy BMB.pem as pathname". 
+Next, you'll need to change directory to where your key file is stored. Locate the file in your Finder, right click the file, hold the option key and click on "Copy CBW.pem as pathname". 
 
 Then, go to your Terminal window (search for "Terminal" in Launchpad).
 
-You can just remove the BMB.pem from the end to get the file path. E.g., my full path name that I copied is ```/Users/robynwright/Dropbox/Langille_Lab_postdoc/CBW_2024/student_test/BMB.pem```, so:
+You can just remove the CBW.pem from the end to get the file path. E.g., my full path name that I copied is ```/Users/robynwright/Dropbox/Langille_Lab_postdoc/CBW_2024/student_test/CBW.pem```, so:
 ```
 cd /Users/robynwright/Dropbox/Langille_Lab_postdoc/CBW_2024/student_test/
 ```
 
 Then run:
 ```
-chmod 600 BMB.pem
+chmod 600 CBW.pem
 ```
-Make sure that you replace BMB.pem with whatever the file name is that you saved it as!
+Make sure that you replace CBW.pem with whatever the file name is that you saved it as!
 
 Now we can connect to the server:
 ```
-ssh -i BMB.pem ubuntu@##.uhn-hpc.ca
+ssh -i CBW.pem ubuntu@##.uhn-hpc.ca
 ```
-where ## is your assigned student number. Again, make sure you replace BMB.pem with whatever the file name is that you chose!
+where ## is your assigned student number. Again, make sure you replace CBW.pem with whatever the file name is that you chose!
 
 It will then probably ask you if you're sure you want to connect. Type "yes" and press enter. Now you should see something like ```(base) ubuntu@ip-10-0-1-199:~$``` to the left of your cursor. Great, you're connected!
 
