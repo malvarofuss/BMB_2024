@@ -42,15 +42,15 @@ Coming soon!
 
 *<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-Module 1 Lecture Slides
-Module 1 Lab
+[Module 1 Lecture Slides]()
+[Module 1 Lab]()
 
 ## Module 2
 
 *<font color="#827e9c">Robyn Wright & Monica Alvaro Fuss</font>*
 
-Module 2 Lecture Slides
-Module 2 Lab
+[Module 2 Lecture Slides]()
+[Module 2 Lab]()
 
 # Day 2 <a id="day1"></a>
 
@@ -58,12 +58,12 @@ Module 2 Lab
 
 *<font color="#827e9c">Morgan Langille & Monica Alvaro Fuss</font>*
 
-Module 3 Lecture Slides
-Module 3 Lab
+[Module 3 Lecture Slides]()
+[Module 3 Lab]()
 
 ## Module 4
 
 *<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-Module 4 Lecture Slides
-Module 4 Lab
+[Module 4 Lecture Slides]()
+[Module 4 Lab]()
