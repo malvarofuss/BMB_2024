@@ -1,6 +1,6 @@
 ---
 layout: aws_tutorial_page
-permalink: /BMB_2024_module2
+permalink: /BMB_2024_module1
 title: AWS 2024 - Module 1
 header1: Workshop Pages for Students
 header2: Module 1 - Introduction to sequencing data analysis
