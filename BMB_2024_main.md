@@ -38,46 +38,32 @@ Coming soon!
 
 # Day 1 <a id="day1"></a>
 
-<!-- ##  Module 1 -->
+## Module 1
 
-<!-- *<font color="#827e9c">Martin Hirst</font>*   -->
+*<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-<!-- [Module 1 Lecture Slides]()   -->
-<!-- [Module 1 Lecture Recording]()   -->
-<!-- [Module 1 Lab]()   -->
+Module 1 Lecture Slides
+Module 1 Lab
 
-<!-- ##  Module 2 -->
+## Module 2
 
-<!-- *<font color="#827e9c">Martin Hirst</font>*   -->
+*<font color="#827e9c">Robyn Wright & Monica Alvaro Fuss</font>*
 
-<!-- [Module 2 Lecture Slides]()   -->
-<!-- [Module 2 Lecture Recording]()   -->
-<!-- [Module 2 Lab]()   -->
+Module 2 Lecture Slides
+Module 2 Lab
 
-<!-- # Day 2 <a id="day2"></a> -->
+# Day 2 <a id="day1"></a>
 
-<!-- ##  Module 3 -->
+## Module 3
 
-<!-- *<font color="#827e9c">Edmund Su</font>*   -->
+*<font color="#827e9c">Morgan Langille & Monica Alvaro Fuss</font>*
 
-<!-- [Module 3 Lecture Slides]()   -->
-<!-- [Module 3 Lecture Recording]()   -->
-<!-- [Module 3 Lab]()   -->
+Module 3 Lecture Slides
+Module 3 Lab
 
-<!-- ##  Module 4 -->
+## Module 4
 
-<!-- *<font color="#827e9c">Guillaume Bourque</font>*   -->
+*<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-<!-- [Module 4 Lecture Slides]()   -->
-<!-- [Module 4 Lecture Recording]()   -->
-<!-- [Module 4 Lab]()   --> 
-
-<!-- # Day 3 <a id="day2"></a> -->
-
-<!-- ##  Module 5 -->
-
-<!-- *<font color="#827e9c">David Bujold</font>*   -->
-
-<!-- [Module 5 Lecture Slides]()   -->
-<!-- [Module 5 Lecture Recording]()   -->
-<!-- [Module 5 Lab]()   -->
+Module 4 Lecture Slides
+Module 4 Lab
