@@ -14,19 +14,19 @@ length: 2 days
 
 Welcome to Beginner Microbiome Analysis 2024. 
 
-The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/BMB_2024_schedule)
+The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/BMB_2024_schedule).
 
 <!-- Meet your **faculty** [here]() -->
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
-**Pre-work** including programs to install, tutorials, and readings can be found [here](https://forms.gle/xymhx8dD65BE2noU8)
+**Pre-work** including programs to install, tutorials, and readings can be found [here](https://forms.gle/xymhx8dD65BE2noU8).
 
 ***
 
 # AWS Module <a id="preworkshop"></a>
 
-Connecting and properly using a cloud computing cluster at the CBW [here](/BMB_2024_AWSUNIX)  
+Connecting and properly using a cloud computing cluster at the CBW [here](/BMB_2024_AWSUNIX).  
 
 ***
 
@@ -42,16 +42,16 @@ Coming soon!
 
 *<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-[Module 1 Lecture Slides]()
-[Module 1 Lab](/BMB_2024_module1)
+[Module 1 Lecture Slides]()  
+[Module 1 Lab](/BMB_2024_module1)  
 
 ## Module 2
 
 *<font color="#827e9c">Robyn Wright & Monica Alvaro Fuss</font>*
 
-[Module 2 Lecture Slides]()
-[Module 2 Lab](/BMB_2024_module2)
-[Module 2 Lab Markdown]()
+[Module 2 Lecture Slides]()  
+[Module 2 Lab](/BMB_2024_module2)  
+[Module 2 Lab Markdown]()  
 
 # Day 2 <a id="day1"></a>
 
@@ -59,14 +59,14 @@ Coming soon!
 
 *<font color="#827e9c">Morgan Langille & Monica Alvaro Fuss</font>*
 
-[Module 3 Lecture Slides]()
-[Module 3 Lab](/BMB_2024_module3)
-[Module 3 Lab Markdown]()
+[Module 3 Lecture Slides]()  
+[Module 3 Lab](/BMB_2024_module3)  
+[Module 3 Lab Markdown]()  
 
 ## Module 4
 
 *<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-[Module 4 Lecture Slides]()
-[Module 4 Lab](/BMB_2024_module4)
-[Module 3 Lab Markdown]()
+[Module 4 Lecture Slides]()  
+[Module 4 Lab](/BMB_2024_module4)  
+[Module 4 Lab Markdown]()  
