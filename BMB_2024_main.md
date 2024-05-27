@@ -42,7 +42,7 @@ Coming soon!
 
 *<font color="#827e9c">Morgan Langille & Robyn Wright</font>*
 
-[Module 1 Lecture Slides]()  
+[Module 1 Lecture Slides](https://drive.google.com/file/d/1y-lwkW-uzdPj6PAvs5-zcIdHQE55M1U9/view?usp=sharing)  
 [Module 1 Lab](/BMB_2024_module1)  
 
 ## Module 2
