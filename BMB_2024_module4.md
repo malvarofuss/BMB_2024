@@ -16,21 +16,21 @@ This tutorial is part of the 2024 Canadian Bioinformatics Workshops [Beginner Mi
 
 ## Table of Contents
 
-[Introduction](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#introduction)\
-[4.1 Prepare data from the end of Module 2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#41-prepare-data-from-the-end-of-module-2)\
-[4.2 Start running PICRUSt2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#42-start-running-picrust2)\
-[4.3 Read filtered output into R/Phyloseq](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#43-read-filtered-output-into-rphyloseq)\
-[4.4 Run MaAsLin2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#44-run-maaslin2)\
-[4.5 Run ANCOM2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#45-run-ancom2)\
-[4.6 Run ALDEx2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#46-run-aldex2)\
-[4.7 Combine and plot differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_1](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#47-combine-and-plot-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_1)\
-[4.8 Combine and plot differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_3](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#48-combine-and-plot-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_3)\
-[4.9 Read PICRUSt2 output into R/Phyloseq](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#49-read-picrust2-output-into-rphyloseq)\
-[4.10 Look at PICRUSt2 alpha and beta diversity](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#410-look-at-picrust2-alpha-and-beta-diversity)\
-[4.11 Run PICRUSt2 differential abundance](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#411-run-picrust2-differential-abundance)\
-[4.12 Combine and plot PICRUSt2 differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_1](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#412-combine-and-plot-picrust2-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_1)\
-[4.13 Combine and plot PICRUSt2 differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_3](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#413-combine-and-plot-picrust2-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_3)\
-[Answers](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-4:-Functional-prediction-and-additional-analyses#answers)
+[Introduction](#introduction)\
+[4.1 Prepare data from the end of Module 2]#41-prepare-data-from-the-end-of-module-2)\
+[4.2 Start running PICRUSt2](#42-start-running-picrust2)\
+[4.3 Read filtered output into R/Phyloseq](#43-read-filtered-output-into-rphyloseq)\
+[4.4 Run MaAsLin2](#44-run-maaslin2)\
+[4.5 Run ANCOM2](#45-run-ancom2)\
+[4.6 Run ALDEx2](#46-run-aldex2)\
+[4.7 Combine and plot differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_1](#47-combine-and-plot-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_1)\
+[4.8 Combine and plot differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_3](#48-combine-and-plot-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_3)\
+[4.9 Read PICRUSt2 output into R/Phyloseq](#49-read-picrust2-output-into-rphyloseq)\
+[4.10 Look at PICRUSt2 alpha and beta diversity](#410-look-at-picrust2-alpha-and-beta-diversity)\
+[4.11 Run PICRUSt2 differential abundance](#411-run-picrust2-differential-abundance)\
+[4.12 Combine and plot PICRUSt2 differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_1](#412-combine-and-plot-picrust2-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_1)\
+[4.13 Combine and plot PICRUSt2 differential abundance results from MaAsLin2, ANCOM2 and ALDEx2 for Description_3](#413-combine-and-plot-picrust2-differential-abundance-results-from-maaslin2-ancom2-and-aldex2-for-description_3)\
+[Answers](#answers)
 
 ## Introduction
 
