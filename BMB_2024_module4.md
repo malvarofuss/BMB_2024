@@ -17,7 +17,7 @@ This tutorial is part of the 2024 Canadian Bioinformatics Workshops [Beginner Mi
 ## Table of Contents
 
 [Introduction](#introduction)\
-[4.1 Prepare data from the end of Module 2]#41-prepare-data-from-the-end-of-module-2)\
+[4.1 Prepare data from the end of Module 2](#41-prepare-data-from-the-end-of-module-2)\
 [4.2 Start running PICRUSt2](#42-start-running-picrust2)\
 [4.3 Read filtered output into R/Phyloseq](#43-read-filtered-output-into-rphyloseq)\
 [4.4 Run MaAsLin2](#44-run-maaslin2)\
