@@ -16,7 +16,7 @@ Welcome to Beginner Microbiome Analysis 2024.
 
 The course **schedule** can be found [here](https://bioinformaticsdotca.github.io/BMB_2024_schedule).
 
-<!-- Meet your **faculty** [here]() -->
+Meet your **faculty** [here](https://drive.google.com/file/d/1JZOkzeXLfJtE3R5qJSg4O8m6kVpzdamZ/view?usp=sharing)
 
 # Pre-Workshop Materials <a id="preworkshop"></a>
 
