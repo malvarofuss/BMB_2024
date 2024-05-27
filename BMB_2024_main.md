@@ -49,9 +49,9 @@ Coming soon!
 
 *<font color="#827e9c">Robyn Wright & Monica Alvaro Fuss</font>*
 
-[Module 2 Lecture Slides]()  
+[Module 2 Lecture Slides](https://drive.google.com/file/d/1WXwTim4UK60Xq0wQGU5sDylvpASTVyho/view?usp=sharing)  
 [Module 2 Lab](/BMB_2024_module2)  
-[Module 2 Lab Markdown]()  
+<!-- [Module 2 Lab Markdown]()   -->
 
 # Day 2 <a id="day1"></a>
 
@@ -61,7 +61,7 @@ Coming soon!
 
 [Module 3 Lecture Slides]()  
 [Module 3 Lab](/BMB_2024_module3)  
-[Module 3 Lab Markdown]()  
+<!-- [Module 3 Lab Markdown]()   -->
 
 ## Module 4
 
@@ -69,4 +69,4 @@ Coming soon!
 
 [Module 4 Lecture Slides]()  
 [Module 4 Lab](/BMB_2024_module4)  
-[Module 4 Lab Markdown]()  
+<!-- [Module 4 Lab Markdown]()   -->
