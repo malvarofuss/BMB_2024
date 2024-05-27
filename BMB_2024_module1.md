@@ -16,24 +16,24 @@ This tutorial is part of the 2024 Canadian Bioinformatics Workshops [Beginner Mi
 
 ## Table of Contents
 
-[Introduction](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#introduction)\
-[1.1 Log into your AWS instance](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#11-log-into-your-aws-instance)\
-[1.2 Creating directories and moving around on the command line](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#12-creating-directories-and-moving-around-on-the-command-line)\
-[1.3 Use wget to download files](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#13-use-wget-to-download-files)\
-[1.4 Move these files to the directories](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#14-move-these-files-to-the-directories)\
-[1.5 Zip and unzip these files](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#15-zip-and-unzip-these-files)\
-[1.6 Create new tar archive of files](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#16-create-new-tar-archive-of-files)\
-[1.7 Unzip tar archive](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#17-unzip-tar-archive)\
-[1.8 Look at fasta and fastq files with less](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#18-look-at-fasta-and-fastq-files-with-less)\
-[1.9 Installing programs to the server](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#19-installing-programs-to-the-server)\
-[1.10 Conda environments](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#110-conda-environments)\
-[1.11 Install fastqc and multiqc](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#111-install-fastqc-and-multiqc)\
-[1.12 Perform quality control on fastq files](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#112-perform-quality-control-on-fastq-files)\
-[1.13 htop - looking at the number of processes we have available or running](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#113-htop---looking-at-the-number-of-processes-we-have-available-or-running)\
-[1.14 Back to the quality control](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#114-back-to-the-quality-control)\
-[1.15 Quality control on the data that we'll be using](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#115-quality-control-on-the-data-that-well-be-using)\
-[1.16 Install QIIME2](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#116-install-qiime2)\
-[Answers](https://github.com/LangilleLab/microbiome_helper/wiki/CBW-2024-Beginner-Module-1:-Introduction-to-sequencing-data-analysis#answers)
+[Introduction](#introduction)\
+[1.1 Log into your AWS instance](#11-log-into-your-aws-instance)\
+[1.2 Creating directories and moving around on the command line](#12-creating-directories-and-moving-around-on-the-command-line)\
+[1.3 Use wget to download files](#13-use-wget-to-download-files)\
+[1.4 Move these files to the directories](#14-move-these-files-to-the-directories)\
+[1.5 Zip and unzip these files](s#15-zip-and-unzip-these-files)\
+[1.6 Create new tar archive of files](#16-create-new-tar-archive-of-files)\
+[1.7 Unzip tar archive](#17-unzip-tar-archive)\
+[1.8 Look at fasta and fastq files with less](#18-look-at-fasta-and-fastq-files-with-less)\
+[1.9 Installing programs to the server](#19-installing-programs-to-the-server)\
+[1.10 Conda environments](#110-conda-environments)\
+[1.11 Install fastqc and multiqc](#111-install-fastqc-and-multiqc)\
+[1.12 Perform quality control on fastq files](#112-perform-quality-control-on-fastq-files)\
+[1.13 htop - looking at the number of processes we have available or running](#113-htop---looking-at-the-number-of-processes-we-have-available-or-running)\
+[1.14 Back to the quality control](#114-back-to-the-quality-control)\
+[1.15 Quality control on the data that we'll be using](s#115-quality-control-on-the-data-that-well-be-using)\
+[1.16 Install QIIME2](#116-install-qiime2)\
+[Answers](#answers)
 
 ## Introduction
 
