@@ -10,6 +10,8 @@ home: https://bioinformaticsdotca.github.io/BMB_2024
 
 This tutorial is part of the 2024 Canadian Bioinformatics Workshops Beginner Microbiome Analysis (St John's, NL, May 27-28). It is based on the Amplicon SOP v2 available on the [Microbiome Helper repository](https://github.com/LangilleLab/microbiome_helper/wiki/Amplicon-SOP-v2-(qiime2-2022.11)) and previous workshops designed by Diana Haider and Robert Beiko.
 
+**Author**: Monica Alvaro Fuss
+
 ## Table of Contents
 
 1.  [First steps](#1-First-steps)
